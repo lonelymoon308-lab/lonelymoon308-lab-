@@ -1,4 +1,3 @@
-PHPPythonHTML5CSS3JavaScriptJavaNodeJSWindowsUbuntuDocker
 # Hi 👋
 
 Software Engineer | Cybersecurity | AI
